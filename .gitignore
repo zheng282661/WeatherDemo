@@ -1,0 +1,6 @@
+/build
+/src/main/webapp/data/
+/src/main/config/filters/filter-app-development.properties
+/src/main/webapp/recorder/mp3
+/src/main/webapp/WEB-INF/classes/
+pom.xml
